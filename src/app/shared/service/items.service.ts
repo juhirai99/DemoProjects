@@ -11,9 +11,6 @@ import { Response } from '@angular/http';
 export class ItemsService {
   items :ItemClass[]
   constructor(private http : Http) { }
-  // getEmployees(): Observable<ItemClass[]> {
-  //   return this.http.get(constants.apiURL).pipe(catchError(this.handleError));
-  // };
   getEmployees() : Observable<ItemClass[]>{
     return this.http.get(constants.apiURL)
         .map((response: Response) => <ItemClass[]>response.json())
