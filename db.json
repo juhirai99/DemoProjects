@@ -1,0 +1,15 @@
+{
+  "items": [
+    { "id": 1, "title": "Chair", "url": "/assets/image/chair.jpg" , "price" :"5000" , "sugesstion":"recomended", "time" :"1 hour ago" , "location" :"Dubai"},
+    { "id": 2, "body": "Sofa", "url": "/assets/image/sofa.jpg", "price" :"2000", "sugesstion":"recomended" ,  "time" :"1 hour ago" , "location" :"Dubai"},
+    { "id": 3,"body": "Phone" , "url":"/assets/image/mobilephone1.jpg" , "price":"3000", "sugesstion":"recomended", "time" :"1 hour ago" , "location" :"Dubai" },
+    { "id": 4,"body": "Footwear" , "url":"/assets/image/shoes.jpg" , "price":"300", "sugesstion":"recomended" , "time" :"1 hour ago" , "location" :"Dubai" },
+    { "id": 5,"body": "Table" , "url":"/assets/image/table.jpg" , "price":"1300", "sugesstion":"recomended",  "time" :"1 hour ago" , "location" :"Dubai" },
+    { "id": 6,"body": "Laptop" , "url":"/assets/image/laptop.jpg" , "price":"2300" , "sugesstion":"popular", "time" :"1 hour ago" , "location" :"Dubai" },
+    { "id": 7,"body": "Book" , "url":"/assets/image/book.jpg" , "price":"200", "sugesstion":"popular" , "time" :"1 hour ago" , "location" :"Dubai"},
+    { "id": 8,"body": "Phone Stand" , "url":"/assets/image/phonestand.jpg" , "price":"200",  "time" :"1 hour ago" , "location" :"Dubai" },
+    { "id": 9,"body": "Car" , "url":"/assets/image/car.jpg" , "price":"20000" , "sugesstion":"popular",  "time" :"1 hour ago" , "location" :"Dubai"},
+    { "id": 10,"body": "Room " , "url":"assets/image/room.jpg" , "price":"20000" , "sugesstion":"popular", "time" :"1 hour ago" , "location" :"Dubai" },
+    { "id": 11,"body": "Phone" , "url":"/assets/image/mobilephone2.jpg" , "price":"3000","sugesstion":"popular",  "time" :"1 hour ago" , "location" :"Dubai" }
+  ]
+}

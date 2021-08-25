@@ -1,0 +1,16 @@
+.buttonStyle{
+  margin-top: 4px;
+  width: 148px;
+  height: 35px;
+  border-radius: 21px;
+  color :white;
+  background-color: #7b6f6f
+}
+
+.font-color{
+  color : wheat
+}
+
+.wrapper{
+  text-align: right; margin-top: 3px;
+}
